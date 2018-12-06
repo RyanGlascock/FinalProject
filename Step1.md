@@ -6,4 +6,4 @@ If you would like to make your homepage pull up instintly on your website, make 
 
 [Here is a link to go more indepth](https://www.w3schools.com/html/html_intro.asp)
 
-###[Back to home page](https://github.com/RyanGlascock/FinalProject/blob/master/README.md)
+### [Back to home page](https://github.com/RyanGlascock/FinalProject/blob/master/README.md)
