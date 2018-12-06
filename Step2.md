@@ -15,4 +15,8 @@ You can choose class selectors to change different p and div styles.
   
 [Here is a link to go more indepth](https://www.w3schools.com/css/css_syntax.asp)
 
+#### [Step 1](https://github.com/RyanGlascock/FinalProject/blob/master/Step1.md)
+
+### [Step 3](https://github.com/RyanGlascock/FinalProject/blob/master/README.md)
+
 ### [Back to home page](https://github.com/RyanGlascock/FinalProject/blob/master/README.md)
