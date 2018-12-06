@@ -17,6 +17,6 @@ You can choose class selectors to change different p and div styles.
 
 #### [Step 1](https://github.com/RyanGlascock/FinalProject/blob/master/Step1.md)
 
-### [Step 3](https://github.com/RyanGlascock/FinalProject/blob/master/README.md)
+### [Step 3](https://github.com/RyanGlascock/FinalProject/blob/master/Step3.md)
 
 ### [Back to home page](https://github.com/RyanGlascock/FinalProject/blob/master/README.md)
