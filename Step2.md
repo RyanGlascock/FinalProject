@@ -13,7 +13,7 @@ The css above shows that now every div will have red text.
 
 You can choose class selectors to change different p and div styles.
   
-[Here is a link to go more indepth](https://www.w3schools.com/css/css_syntax.asp)
+[Here is a link to go more in-depth](https://www.w3schools.com/css/css_syntax.asp)
 
 #### [Step 1](https://github.com/RyanGlascock/FinalProject/blob/master/Step1.md)
 
